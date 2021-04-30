@@ -37,7 +37,7 @@ import numpy as np
 from mpl_toolkits import mplot3d
 import matplotlib.pyplot as plt
 import lidar 
-file = 'C:/Users/bbshe/OneDrive - purdue.edu/Desktop/School/School Work/Spring 2021/EPICS121/prot 4/Data/Copy of USGS_LPC_SD_NRCS_Fugro_B2_2017_13TFK240260_LAS_2019.laz'
+file = 'Data/Copy of USGS_LPC_SD_NRCS_Fugro_B2_2017_13TFK240260_LAS_2019.laz'
 lidar.myFunc(file)
 
 
